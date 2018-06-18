@@ -41,8 +41,6 @@ public class ValidatorTests {
         assertThat(violation.getPropertyPath().toString()).isEqualTo("firstName");
         assertThat(violation.getMessage()).isEqualTo("may not be empty");
         
-        assertThat(violation.getMessage()).isEqualTo("It is empty LOL XDPTDR");
-        
     }
 
 }
