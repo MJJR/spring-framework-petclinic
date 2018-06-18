@@ -24,6 +24,7 @@ import org.springframework.web.servlet.support.AbstractDispatcherServletInitiali
 import javax.servlet.Filter;
 import javax.servlet.ServletContext;
 
+LOL XDPTDR
 
 /**
  * In Servlet 3.0+ environments, this class replaces the traditional {@code web.xml}-based approach in order to configure the
